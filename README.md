@@ -5,7 +5,7 @@ The official implemention of "Uncovering LLM-Generated Code: A Zero-Shot Synthet
 We refactored the implementation into a Jupyter notebook format, shown in ```nbs``` dirs.
 
 ## datas, model checkpoints
-Datas and Model checkpoints stored at: https://drive.google.com/file/d/1UtRPTw_w7D1TKuYIrEVtTzBNUj-b2O4-/view?usp=sharing
+Datas and Model checkpoints stored at: [https://drive.google.com/file/d/1UtRPTw_w7D1TKuYIrEVtTzBNUj-b2O4-/view?usp=sharing](https://drive.google.com/file/d/1UtRPTw_w7D1TKuYIrEVtTzBNUj-b2O4-/view?usp=sharing)
 
 
 ## nbs
